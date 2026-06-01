@@ -2,12 +2,12 @@
 ## NAME: GEETHALAKSHMI D
 ## REG NO: 212224060079
 
-**Aim of the Experiment:** 
+## Aim of the Experiment:
 
 To design a Horn antenna operating at 5.5 GHz and to find the directivity andHalf power beam width form the radiation patterns.
 Software to be used: CST studio suite 2019 (Student edition)
 
-**Design:**
+## Design:
 
 **	Mathematical Calculation**
 
@@ -67,6 +67,6 @@ Voltage Standing Wave Ratio (VSWR) Plot
 
 <img width="1568" height="665" alt="image" src="https://github.com/user-attachments/assets/09a3c145-cd5a-41cb-a97f-e9700f2c44ac" />
 
-**Conclusion**
+## Conclusion
 
 From this Experiment we have Designed a Horn-antenna which is Operating at a frequency of 5.5 GHz,from this we have Found the S11 C/s,Directivity and Radiation Pattern. From which we found that the Directivity to be near 15
